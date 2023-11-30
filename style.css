@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    
+}
+
+
+
+body{
+    width: 90%;
+    max-width: 900px;
+    margin: auto;
+} 
+
+.elso td{
+    padding: 10px;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+.vilagos {
+    background-color: rgba(255, 255, 255, 0.753);
+}
+.sotet {
+    background-color: rgba(255, 255, 255, 0.185);
+}
+.elso img {
+    width: 100%;
+    height: auto;
+}
